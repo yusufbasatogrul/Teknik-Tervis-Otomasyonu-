@@ -26,15 +26,15 @@ Bu proje, C# programlama dili ve DevExpress araçları kullanılarak geliştiril
 
    ```bash
    git clone https://github.com/yusufbasatogrul/Teknik-Tervis-Otomasyonu-.git
-### 2. Veritabanını Oluşturun
+2. **Veritabanını Oluşturun**
 
 - `Database` klasöründeki `database.sql` dosyasını kullanarak veritabanınızı oluşturun.
 
-### 3. Bağlantı Ayarlarını Güncelleyin
+3. **Bağlantı Ayarlarını Güncelleyin**
 
 - `app.config` dosyasındaki veritabanı bağlantı bilgilerini kendi ayarlarınıza göre güncelleyin.
 
-### 4. Projeyi Çalıştırın
+4. **Projeyi Çalıştırın**
 
 - Visual Studio'da projeyi açın ve çalıştırın.
 
