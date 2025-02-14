@@ -1,7 +1,5 @@
 # Teknik Servis Otomasyonu
 
-![Proje Görseli](link_to_your_image.png)
-
 ## Proje Hakkında
 
 Bu proje, teknik servis firmalarının müşterilerinin cihazları için oluşturdukları talepleri takip etmelerine ve yönetmelerine olanak tanıyan bir otomasyon yazılımıdır.
@@ -28,3 +26,40 @@ Bu proje, C# programlama dili ve DevExpress araçları kullanılarak geliştiril
 
    ```bash
    git clone https://github.com/yusufbasatogrul/Teknik-Tervis-Otomasyonu-.git
+### 2. Veritabanını Oluşturun
+
+- `Database` klasöründeki `database.sql` dosyasını kullanarak veritabanınızı oluşturun.
+
+### 3. Bağlantı Ayarlarını Güncelleyin
+
+- `app.config` dosyasındaki veritabanı bağlantı bilgilerini kendi ayarlarınıza göre güncelleyin.
+
+### 4. Projeyi Çalıştırın
+
+- Visual Studio'da projeyi açın ve çalıştırın.
+
+---
+
+## Ekran Görüntüleri
+
+![Anasayfa](link_to_homepage_screenshot.png)
+*Anasayfa Tasarımı*
+
+![Personel Formu](link_to_personnel_form_screenshot.png)
+*Personel Formu Tasarımı*
+
+![Rapor Formu](link_to_report_form_screenshot.png)
+*Rapor Formu Tasarımı*
+
+---
+
+## Katkıda Bulunma
+
+Katkılarınızı memnuniyetle karşılıyoruz! Lütfen katkıda bulunmak için bir "pull request" gönderin veya bir "issue" açın.
+
+---
+
+## İletişim
+
+Herhangi bir soru veya öneriniz için lütfen repository'nin "issues" kısmını kullanın.
+
