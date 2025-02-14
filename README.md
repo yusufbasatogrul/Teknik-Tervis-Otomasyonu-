@@ -1,0 +1,1 @@
+# Teknik-Tervis-Otomasyonu-
