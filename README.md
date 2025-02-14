@@ -40,26 +40,11 @@ Bu proje, C# programlama dili ve DevExpress araçları kullanılarak geliştiril
 
 ---
 
-## Ekran Görüntüleri
+## Ekran Görüntüleri ve Rapor
 
-![Anasayfa](link_to_homepage_screenshot.png)
-*Anasayfa Tasarımı*
-
-![Personel Formu](link_to_personnel_form_screenshot.png)
-*Personel Formu Tasarımı*
-
-![Rapor Formu](link_to_report_form_screenshot.png)
-*Rapor Formu Tasarımı*
+Ekran Görüntülerini **"Teknik Servis Görseller"** klasöründen, rapor dosyasını ise **Rapor Dosyası** dosyasından inceleyebilirsiniz. 
 
 ---
 
-## Katkıda Bulunma
 
-Katkılarınızı memnuniyetle karşılıyoruz! Lütfen katkıda bulunmak için bir "pull request" gönderin veya bir "issue" açın.
-
----
-
-## İletişim
-
-Herhangi bir soru veya öneriniz için lütfen repository'nin "issues" kısmını kullanın.
 
